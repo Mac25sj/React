@@ -1,0 +1,20 @@
+
+.Guitarbarra{
+    background-color: black;
+    width: 100vx;/*lo aconsejo un comampañero en el after y me gusto la idea */
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+    /* Para que organizar un poco*/
+    justify-content: space-between;
+
+}
+
+.menu{
+ width: 700px;
+display: flex;
+flex-direction: row;
+gap: 15px;
+background-color: black;
+}
+

@@ -1,0 +1,26 @@
+body{
+  background-color: grey;
+}
+
+
+
+
+h1 {
+  font-size: 5.2em;
+  line-height: 1.1;
+  color: greenyellow ;
+}
+
+button {
+  border-radius: 30px;
+  border: 3px solid yellowgreen;
+  padding: 0.8em 2.2em;
+  font-size: 25px;
+  color: rgb(244, 246, 241);
+  cursor: pointer;
+  background-color: rgb(155, 133, 93);
+}
+
+button:hover {
+  border-color:orange;
+}
